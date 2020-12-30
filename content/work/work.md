@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/img_9291.jpg", "/uploads/img_9290.jpg"]
+title = "Village House. Restoration begins. "
+[[work]]
 photos = ["/uploads/img_9136.jpg"]
 title = "Log Store"
 [[work]]
