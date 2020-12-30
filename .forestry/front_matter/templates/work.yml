@@ -1,4 +1,15 @@
 ---
 label: Work
 hide_body: true
-fields: []
+fields:
+- name: project
+  type: text
+  config:
+    required: false
+  label: Project
+  description: Name of project
+- name: photos
+  type: image_gallery
+  config: {}
+  label: Photos
+  description: Photos of project
