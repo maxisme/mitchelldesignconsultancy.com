@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/img_7814-1.jpg"]
+title = "Three walls glazed. "
+[[work]]
 photos = ["/uploads/c50b434e-78fe-4101-b3b0-e6f1a6b926ba.JPG"]
 title = "Restoration of a Rectory. "
 [[work]]
