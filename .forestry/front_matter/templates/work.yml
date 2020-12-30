@@ -1,0 +1,24 @@
+---
+label: Work
+hide_body: true
+fields:
+- name: work
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: photos
+    type: image_gallery
+    config: {}
+    label: Photos
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Work
+  description: List of works
+pages:
+- content/work/work.md
