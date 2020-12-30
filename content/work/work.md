@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/41cd5de6-3331-44af-ac5a-888d39326c7e.JPG"]
+title = "Courtyard house. Built on the site of a garage and portion of garden. "
+[[work]]
 photos = ["/uploads/img_7814-1.jpg"]
 title = "Three walls glazed. "
 [[work]]
