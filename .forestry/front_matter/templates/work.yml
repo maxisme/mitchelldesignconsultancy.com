@@ -20,5 +20,3 @@ fields:
     labelField: 
   label: Work
   description: List of works
-pages:
-- content/work/work.md
