@@ -1,0 +1,12 @@
+baseURL = "https://mitchelldesignconsultancy.com/"
+languageCode = "en-gb"
+title = "Wick Projects"
+assetDir = "static"
+[outputs]
+home = ["HTML"]
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+[taxonomies]
+  work = "work"
