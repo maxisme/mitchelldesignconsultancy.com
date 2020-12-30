@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Mitchell Design Consultancy</title>
-    <script src="Mitchell%20Design%20Consultancy_files/jquery-latest.js" type="text/javascript"></script>
+    <script src="js/jquery-3.2.1.js" type="text/javascript"></script>
     <script>
         $(document).ready(function () {
             $(".orange").fadeIn(500);
@@ -386,14 +386,14 @@
     </tr>
     <tr>
         <th class=" page" scope="col" style="width: 1440px;"><span class=" page mane text" style="width: 1440px;"><span
-                class="orange"><img src="Mitchell%20Design%20Consultancy_files/holdingpage.png" alt="" width="174"
+                class="orange"><img src="images/holdingpage.png" alt="" width="174"
                                     height="174" align="left"></span></span></th>
         <th class="text page" scope="col" style="width: 1440px;">
-            <pre><span class="bodey">Formed as a partnership in 1987 - <br> <br>Architectural Design, Retail and Conceptual Schemes, external and internal, Public Buildings, Schools.  <br> <br>Award winning for both Magnet (retail design of the year award) and Ramus (category retain design of the year award), Civic Trust commendation for John Carr's coach house<br>restoration. <br> <br>Works undertaken include new build, restoration of historic buildings, public spaces and competition entries.</span></pre>
+            <pre><span class="bodey">{{ .Params.about | markdownify }}</span></pre>
         </th>
-        <th class=" page" scope="col" style="width: 1440px;"><p class="bodey">Email; <a
-                href="mailto:Simon@mitchelldesignconsultancy.com">Simon@mitchelldesignconsultancy.com</a><br><br>
-            Mobile; <a href="tel:07850255732">07850 255732.</a></p></th>
+        <th class=" page" scope="col" style="width: 1440px;">
+            <p class="bodey">{{ .Params.contact | markdownify }}</p>
+        </th>
         <th class="bodey" scope="col">
             <table class="opacity" width="95" border="0">
                 <tbody>
