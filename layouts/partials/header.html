@@ -1,0 +1,47 @@
+<head>
+    <!-- custom meta -->
+    <meta name="description"
+          content="{{ if .Params.meta_description }}{{.Params.meta_description}}{{else}}{{ .Params.Meta.description }}{{end}}">
+    <title>Mitchell Design Consultancy</title>
+    <meta charset="UTF-8">
+
+    <!-- mobile meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="preload stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400;600;900&display=swap"
+          rel="preload stylesheet">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="/images/ico.svg">
+
+    <!-- css -->
+    <link rel="stylesheet" href="/css/materialize.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+
+
+    <script src="/js/jquery-3.2.1.js"></script>
+
+    <!-- materialize -->
+    <script src="/js/materialize.min.js"></script>
+    <script src="/js/script.js"></script>
+</head>
+
+<body>
+<div class="row all-content">
+    <div id="sidebar" class="col  slide-in-on-mobile-blog l4 s8 sidebar">
+        <div align="center">
+            <h1><a href="/">Mitchell<br>Design<br>Consultancy </a></h1>
+            {{ with .Site.GetPage "_index.md" }}
+                <div class="info">{{ .Params.about | markdownify }}</div>
+                <div class="info">{{ .Params.contact | markdownify }}</div>
+            {{end}}
+        </div>
+    </div>
+
+    <!--- posts -->
+    <div id="work" class="col l8 offset-l4 m12 s12">
+        <a href="#" class="top-nav sidenav-trigger full hide-on-large-only">
+            <i class="material-icons">menu</i>
+        </a>
+        <div align="center">

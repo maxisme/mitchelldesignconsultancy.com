@@ -1,0 +1,27 @@
+<div class="work">
+    <h2>{{ .title | title }}</h2>
+    <div id="{{ sha1 .title }}" class="slider">
+        <ul class="slides">
+        {{ range .photos}}
+            {{ $image := resources.Get . }}
+            {{ $img := $image.Resize "x1000" }}
+            <li>
+                <img src="{{ $img.RelPermalink }}">
+            </li>
+        {{ end }}
+        </ul>
+    </div>
+    <!-- js for slider -->
+    <script>
+        $(document).ready(function(){
+            $('#{{ sha1 .title }}').slider(
+                {
+                    'height': 500,
+                {{ if eq (len .photos) 1}}
+                    'indicators': false
+                {{ end }}
+                }
+            );
+        });
+    </script>
+</div>
