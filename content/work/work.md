@@ -1,6 +1,6 @@
 +++
 [[work]]
-photos = ["/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
+photos = ["/uploads/da9a30b0-ca13-44a2-80db-cda1447d6d7f.jpeg", "/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
 title = "Village Rectory, extension under construction. "
 [[work]]
 photos = ["/uploads/img_5722.jpg", "/uploads/img_5704.jpg", "/uploads/img_5725.jpg", "/uploads/img_5723.jpg", "/uploads/img_5720.jpg", "/uploads/img_5717.jpg", "/uploads/img_5707.jpg", "/uploads/img_4655.jpg", "/uploads/img_4594.jpg", "/uploads/img_4595.jpg", "/uploads/img_3841.jpg", "/uploads/img_3551.jpg"]
