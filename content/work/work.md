@@ -1,5 +1,11 @@
 +++
 [[work]]
+photos = ["/uploads/img_9291.jpg", "/uploads/img_9290.jpg"]
+title = "Village House. Restoration begins. "
+[[work]]
+photos = ["/uploads/img_9136.jpg"]
+title = "Log Store"
+[[work]]
 photos = ["/uploads/front.jpg"]
 title = "Restoration of victorian villa."
 [[work]]
@@ -20,12 +26,6 @@ title = "Housing Development, Grade 2*"
 [[work]]
 photos = ["/uploads/img_6028.jpg"]
 title = "Contemporary new build."
-[[work]]
-photos = ["/uploads/img_9291.jpg", "/uploads/img_9290.jpg"]
-title = "Village House. Restoration begins. "
-[[work]]
-photos = ["/uploads/img_9136.jpg"]
-title = "Log Store"
 [[work]]
 photos = ["/uploads/img_8655.jpg"]
 title = "New build matures. "
