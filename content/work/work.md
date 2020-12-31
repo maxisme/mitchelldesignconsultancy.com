@@ -1,7 +1,22 @@
 +++
 [[work]]
-photos = []
-title = ""
+photos = ["/uploads/img_2657.jpg", "/uploads/img_2640.jpg"]
+title = "Salts Mill"
+[[work]]
+photos = ["/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
+title = "Village Rectory, extension under construction. "
+[[work]]
+photos = ["/uploads/img_2763.jpg", "/uploads/img_2762.jpg", "/uploads/img_2761.jpg"]
+title = "External and internal walls modules. "
+[[work]]
+photos = ["/uploads/img_2408.jpg"]
+title = "Bloomsbury entrance hall restoration."
+[[work]]
+photos = ["/uploads/img_1676.jpg"]
+title = "Loggia for Listed City House."
+[[work]]
+photos = ["/uploads/img_1676.jpg"]
+title = "Green oak framing."
 [[work]]
 photos = ["/uploads/img_1454.jpg"]
 title = "Model for Planning. Approved scheme for new Prep School. "
