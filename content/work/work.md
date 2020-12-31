@@ -1,9 +1,12 @@
 +++
 [[work]]
+photos = []
+title = ""
+[[work]]
 photos = ["/uploads/img_4595.jpg", "/uploads/img_3841.jpg", "/uploads/img_3551.jpg"]
 title = "Courtyard House under construction."
 [[work]]
-photos = ["/uploads/img_3131.jpg", "/uploads/img_2657.jpg", "/uploads/img_2640.jpg"]
+photos = ["/uploads/img_4551.jpg", "/uploads/img_3131.jpg", "/uploads/img_2657.jpg", "/uploads/img_2640.jpg"]
 title = "Salts Mill"
 [[work]]
 photos = ["/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
