@@ -1,13 +1,13 @@
 +++
 [[work]]
+photos = ["/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
+title = "Village Rectory, extension under construction. "
+[[work]]
 photos = ["/uploads/img_5722.jpg", "/uploads/img_5704.jpg", "/uploads/img_5725.jpg", "/uploads/img_5723.jpg", "/uploads/img_5720.jpg", "/uploads/img_5717.jpg", "/uploads/img_5707.jpg", "/uploads/img_4655.jpg", "/uploads/img_4594.jpg", "/uploads/img_4595.jpg", "/uploads/img_3841.jpg", "/uploads/img_3551.jpg"]
 title = "Courtyard House."
 [[work]]
 photos = ["/uploads/img_4551.jpg", "/uploads/img_3131.jpg", "/uploads/img_2657.jpg", "/uploads/img_2640.jpg"]
 title = "Salts Mill"
-[[work]]
-photos = ["/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
-title = "Village Rectory, extension under construction. "
 [[work]]
 photos = ["/uploads/img_2763.jpg", "/uploads/img_2762.jpg", "/uploads/img_2761.jpg"]
 title = "External and internal walls modules. "
