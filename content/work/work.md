@@ -15,7 +15,7 @@ title = "External and internal walls modules. "
 photos = ["/uploads/img_2408.jpg"]
 title = "Bloomsbury entrance hall restoration."
 [[work]]
-photos = ["/uploads/img_1676.jpg"]
+photos = ["/uploads/3eee7258-91ba-42a1-851b-5a9858248868.jpeg", "/uploads/img_1676.jpg"]
 title = "Loggia for Listed City House."
 [[work]]
 photos = ["/uploads/img_1454.jpg"]
