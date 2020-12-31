@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/031.JPG", "/uploads/024.JPG"]
+title = "Conversion of Barn"
+[[work]]
 photos = ["/uploads/fsfg.png", "/uploads/356-copy.jpg"]
 title = "Visitors Centre"
 [[work]]
