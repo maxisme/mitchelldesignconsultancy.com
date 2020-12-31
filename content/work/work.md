@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/img_1050.jpg"]
+title = "New Build in the East Riding of Yorkshire. "
+[[work]]
 photos = ["/uploads/img_1061.jpg"]
 title = "Coach House under Construction. "
 [[work]]
