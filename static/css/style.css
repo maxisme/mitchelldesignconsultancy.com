@@ -226,9 +226,6 @@ a img:hover, a img:focus, a img:active {
 #work .work {
   width: 80%;
 }
-#work .work image {
-  width: 80%;
-}
 #work .work h2 {
   background: #000;
   color: #fff;
@@ -236,7 +233,7 @@ a img:hover, a img:focus, a img:active {
   display: table;
   font-size: 1.2em !important;
   font-weight: 600;
-  padding: 3px;
+  padding: 5px;
   margin-bottom: 5px;
   margin-top: 25px;
 }
@@ -421,6 +418,17 @@ i {
     padding-right: 1em !important;
   }
 }
+.slider .slides {
+  background-color: transparent;
+  margin: 0;
+  height: 400px;
+}
+
+.slider .slides li img {
+  background-size: auto 500px;
+  background-repeat: no-repeat;
+}
+
 .slider .indicators .indicator-item {
   position: relative;
   top: -10px;

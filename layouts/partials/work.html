@@ -2,13 +2,19 @@
     <h2>{{ .title | title }}</h2>
     <div id="{{ sha1 .title }}" class="slider">
         <ul class="slides">
-        {{ range .photos}}
-            {{ $image := resources.Get . }}
-            {{ $img := $image.Resize "x1000" }}
-            <li>
-                <img src="{{ $img.RelPermalink }}">
-            </li>
-        {{ end }}
+            {{ $height := 500}}
+            {{ range .photos}}
+                {{ $image := resources.Get . }}
+                {{ $img := $image.Resize "x1000" }}
+                {{ with $image.Exif }}
+                    {{ if eq .Tags.Orientation 6 }}
+                        {{ $img = $image.Resize "x1000 r270" }}
+                    {{ end }}
+                {{ end }}
+                <li>
+                    <img src="{{ $img.RelPermalink }}">
+                </li>
+            {{ end }}
         </ul>
     </div>
     <!-- js for slider -->
