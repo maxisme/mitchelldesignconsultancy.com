@@ -18,9 +18,6 @@ title = "Award winning hair salon."
 photos = ["/uploads/031.JPG", "/uploads/024.JPG"]
 title = "Conversion of Barn"
 [[work]]
-photos = ["/uploads/fsfg.png", "/uploads/356-copy.jpg"]
-title = "Visitors Centre"
-[[work]]
 photos = ["/uploads/8143009-exterior06.jpeg", "/uploads/8143009-exterior08.jpeg", "/uploads/8143009-interior23.jpeg", "/uploads/8143009-interior22.jpeg", "/uploads/8143009-interior17.jpeg", "/uploads/8143009-interior14.jpeg", "/uploads/8143009-interior12.jpeg", "/uploads/8143009-interior11.jpeg", "/uploads/8143009-interior10.jpeg", "/uploads/8143009-interior07.jpeg", "/uploads/8143009-interior05.jpeg", "/uploads/8143009-interior04.jpeg"]
 title = "Housing Development, Grade 2*"
 [[work]]
@@ -32,6 +29,9 @@ title = "New build matures. "
 [[work]]
 photos = ["/uploads/img_8222.jpg"]
 title = "Town house drawing room restoration. "
+[[work]]
+photos = ["/uploads/fsfg.png", "/uploads/356-copy.jpg"]
+title = "Visitors Centre"
 [[work]]
 photos = ["/uploads/059e5cca-914a-4dcc-8565-6746b174a160.JPG"]
 title = "Town house restoration including gardens. "
