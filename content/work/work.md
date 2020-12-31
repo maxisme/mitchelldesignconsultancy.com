@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/8143009-interior23.jpeg", "/uploads/8143009-interior22.jpeg", "/uploads/8143009-interior17.jpeg", "/uploads/8143009-interior14.jpeg", "/uploads/8143009-interior12.jpeg", "/uploads/8143009-interior11.jpeg", "/uploads/8143009-interior10.jpeg", "/uploads/8143009-interior07.jpeg", "/uploads/8143009-interior05.jpeg", "/uploads/8143009-interior04.jpeg", "/uploads/8143009-exterior08.jpeg", "/uploads/8143009-exterior06.jpeg"]
+title = "Housing Development, Grade 2*"
+[[work]]
 photos = ["/uploads/img_6028.jpg"]
 title = "Contemporary new build."
 [[work]]
