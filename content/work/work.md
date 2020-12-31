@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/front.jpg"]
+title = "Restoration of victorian villa."
+[[work]]
 photos = ["/uploads/007.jpg", "/uploads/076.jpg"]
 title = "House in Gaillac."
 [[work]]
