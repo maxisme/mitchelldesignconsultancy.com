@@ -24,7 +24,7 @@ title = "Model for Planning. Approved scheme for new Prep School. "
 photos = ["/uploads/img_1411-1.jpg", "/uploads/img_1413.jpg", "/uploads/img_1412.jpg"]
 title = "Love of old buildings. ‘Found’ entrance door. eBay Jotel and borrowed furniture. "
 [[work]]
-photos = ["/uploads/img_1050.jpg"]
+photos = ["/uploads/90f72ae8-6ac1-424e-b291-40b799da9692.jpeg", "/uploads/img_1050.jpg"]
 title = "New Build in the East Riding of Yorkshire. "
 [[work]]
 photos = ["/uploads/img_1501.jpg", "/uploads/img_1061.jpg"]
