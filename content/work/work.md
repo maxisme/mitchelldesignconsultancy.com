@@ -1,5 +1,8 @@
 +++
 [[work]]
+photos = ["/uploads/dsfa.png"]
+title = "Award winning hair salon."
+[[work]]
 photos = ["/uploads/031.JPG", "/uploads/024.JPG"]
 title = "Conversion of Barn"
 [[work]]
