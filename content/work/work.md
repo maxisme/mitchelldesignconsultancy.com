@@ -18,9 +18,6 @@ title = "Bloomsbury entrance hall restoration."
 photos = ["/uploads/img_1676.jpg"]
 title = "Loggia for Listed City House."
 [[work]]
-photos = ["/uploads/img_1676.jpg"]
-title = "Green oak framing."
-[[work]]
 photos = ["/uploads/img_1454.jpg"]
 title = "Model for Planning. Approved scheme for new Prep School. "
 [[work]]
