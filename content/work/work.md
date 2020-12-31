@@ -1,8 +1,5 @@
 +++
 [[work]]
-photos = ["/uploads/278744e9-f321-47d1-98f1-2c5a35dd1a76.jpeg"]
-title = "House"
-[[work]]
 photos = ["/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
 title = "Village Rectory, extension under construction. "
 [[work]]
