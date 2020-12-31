@@ -1,8 +1,5 @@
 +++
 [[work]]
-photos = []
-title = ""
-[[work]]
 photos = ["/uploads/img_5722.jpg", "/uploads/img_5704.jpg", "/uploads/img_5725.jpg", "/uploads/img_5723.jpg", "/uploads/img_5720.jpg", "/uploads/img_5717.jpg", "/uploads/img_5707.jpg", "/uploads/img_4655.jpg", "/uploads/img_4594.jpg", "/uploads/img_4595.jpg", "/uploads/img_3841.jpg", "/uploads/img_3551.jpg"]
 title = "Courtyard House."
 [[work]]
