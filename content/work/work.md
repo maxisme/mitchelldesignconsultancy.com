@@ -1,9 +1,6 @@
 +++
 [[work]]
-photos = []
-title = ""
-[[work]]
-photos = ["/uploads/1fb55718-4464-47fa-bfab-1a658ba435e9.jpeg", "/uploads/850ae8ce-ce9b-41c2-b672-0e853e17f141.jpeg", "/uploads/2a04d1ff-e578-4390-aaf0-4ec80accd15c.jpeg", "/uploads/75908df4-c858-443c-82e3-db3f1516932a.jpeg", "/uploads/61262695-7b14-4aff-a987-8ee4dc960cfa.jpeg", "/uploads/35ca9149-5a73-43ff-a6fe-9e5a4291c46d.jpeg", "/uploads/ec9f4391-aad2-4207-b261-579e73abc5d5.jpeg", "/uploads/129e0e46-096d-48e3-9726-425bac97998c.jpeg", "/uploads/ce368dac-5588-493d-8431-940fc08e118f.jpeg", "/uploads/52902803-d570-4968-8907-30d572a74707.jpeg"]
+photos = ["/uploads/1fb55718-4464-47fa-bfab-1a658ba435e9.jpeg", "/uploads/850ae8ce-ce9b-41c2-b672-0e853e17f141.jpeg", "/uploads/2a04d1ff-e578-4390-aaf0-4ec80accd15c.jpeg", "/uploads/75908df4-c858-443c-82e3-db3f1516932a.jpeg", "/uploads/61262695-7b14-4aff-a987-8ee4dc960cfa.jpeg", "/uploads/35ca9149-5a73-43ff-a6fe-9e5a4291c46d.jpeg", "/uploads/ec9f4391-aad2-4207-b261-579e73abc5d5.jpeg", "/uploads/129e0e46-096d-48e3-9726-425bac97998c.jpeg", "/uploads/ce368dac-5588-493d-8431-940fc08e118f.jpeg"]
 title = "Pocklington School Art and Design Centre Building "
 [[work]]
 photos = ["/uploads/f6fa46b5-4b9e-47bd-95fb-2e257b98efc9.jpeg", "/uploads/da9a30b0-ca13-44a2-80db-cda1447d6d7f.jpeg", "/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
