@@ -5,15 +5,17 @@
             {{ $height := 500}}
             {{ range .photos}}
                 {{ $image := resources.Get . }}
-                {{ $img := $image.Resize "x1000" }}
-                {{ with $image.Exif }}
-                    {{ if eq .Tags.Orientation 6 }}
-                        {{ $img = $image.Resize "x1000 r270" }}
+                {{ if $image }}
+                    {{ $img := $image.Resize "x1000" }}
+                    {{ with $image.Exif }}
+                        {{ if eq .Tags.Orientation 6 }}
+                            {{ $img = $image.Resize "x1000 r270" }}
+                        {{ end }}
                     {{ end }}
-                {{ end }}
-                <li>
-                    <img src="{{ $img.RelPermalink }}">
-                </li>
+                    <li>
+                        <img src="{{ $img.RelPermalink }}">
+                    </li>
+                {{ end}}
             {{ end }}
         </ul>
     </div>

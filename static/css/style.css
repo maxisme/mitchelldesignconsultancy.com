@@ -223,16 +223,12 @@ a img:hover, a img:focus, a img:active {
   margin-left: 10px;
   margin-right: 10px;
 }
-#work .work {
-  width: 80%;
-}
 #work .work h2 {
   background: #000;
   color: #fff;
   text-align: left;
   display: table;
   font-size: 1.2em !important;
-  font-weight: 600;
   padding: 5px;
   margin-bottom: 5px;
   margin-top: 25px;
@@ -420,8 +416,6 @@ i {
 }
 .slider .slides {
   background-color: transparent;
-  margin: 0;
-  height: 400px;
 }
 
 .slider .slides li img {

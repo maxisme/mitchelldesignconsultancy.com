@@ -3,7 +3,9 @@
 <div class="works">
     {{ range where .Site.RegularPages "Section" "work" }}
         {{ range .Params.work }}
-            {{ partial "work.html" . }}
+            {{ if gt (len .photos) 0 }}
+                {{ partial "work.html" . }}
+            {{ end }}
         {{ end }}
     {{ end }}
 </div>
