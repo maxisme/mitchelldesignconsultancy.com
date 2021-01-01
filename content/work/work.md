@@ -75,7 +75,7 @@ title = "Town house restoration including gardens. "
 photos = ["/uploads/41cd5de6-3331-44af-ac5a-888d39326c7e.JPG"]
 title = "Courtyard house. Built on the site of a garage and portion of garden. "
 [[work]]
-photos = ["/uploads/img_7814-1.jpg"]
+photos = ["/uploads/ea421825-09b6-4228-8567-31df44ffbb16.jpeg", "/uploads/img_7814-1.jpg"]
 title = "Three walls glazed. "
 [[work]]
 photos = ["/uploads/c50b434e-78fe-4101-b3b0-e6f1a6b926ba.JPG"]
