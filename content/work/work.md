@@ -1,9 +1,6 @@
 +++
 [[work]]
 photos = []
-title = ""
-[[work]]
-photos = []
 title = "Pocklington School Art and Design Centre Building "
 [[work]]
 photos = ["/uploads/da9a30b0-ca13-44a2-80db-cda1447d6d7f.jpeg", "/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
