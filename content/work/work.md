@@ -1,6 +1,6 @@
 +++
 [[work]]
-photos = []
+photos = ["/uploads/8bd95368-88ce-403e-bd9c-1fc984681ec7.jpeg", "/uploads/6a7b64d5-47df-425c-9a6d-4dc28636a13b.jpeg", "/uploads/bf501e95-44a0-44c3-ae5d-28979fbdbe7b.jpeg"]
 title = "Pocklington School Art and Design Centre Building "
 [[work]]
 photos = ["/uploads/da9a30b0-ca13-44a2-80db-cda1447d6d7f.jpeg", "/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
