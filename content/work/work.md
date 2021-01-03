@@ -1,9 +1,9 @@
 +++
 [[work]]
-photos = ["/uploads/1fb55718-4464-47fa-bfab-1a658ba435e9.jpeg", "/uploads/7cec9da4-6083-48fc-ac88-c3e1dcbbd58b.jpeg", "/uploads/8350db21-0dc4-41d6-be30-0adf2d6b8d5d.jpeg", "/uploads/850ae8ce-ce9b-41c2-b672-0e853e17f141.jpeg", "/uploads/2a04d1ff-e578-4390-aaf0-4ec80accd15c.jpeg", "/uploads/75908df4-c858-443c-82e3-db3f1516932a.jpeg", "/uploads/61262695-7b14-4aff-a987-8ee4dc960cfa.jpeg", "/uploads/35ca9149-5a73-43ff-a6fe-9e5a4291c46d.jpeg", "/uploads/ec9f4391-aad2-4207-b261-579e73abc5d5.jpeg", "/uploads/245b6cc2-80f8-4739-837a-f126a1330898.jpeg", "/uploads/7fe1b885-a012-49c6-8922-c6641f58d76c.jpeg", "/uploads/129e0e46-096d-48e3-9726-425bac97998c.jpeg", "/uploads/ce368dac-5588-493d-8431-940fc08e118f.jpeg", "/uploads/f9defa39-3e8d-478c-86fb-dc54e18b3751.jpeg", "/uploads/52902803-d570-4968-8907-30d572a74707.jpeg", "/uploads/afe500e7-e700-4ee3-9370-114d0aae45e6.jpeg", "/uploads/8bd95368-88ce-403e-bd9c-1fc984681ec7.jpeg"]
+photos = ["/uploads/1fb55718-4464-47fa-bfab-1a658ba435e9.jpeg", "/uploads/850ae8ce-ce9b-41c2-b672-0e853e17f141.jpeg", "/uploads/2a04d1ff-e578-4390-aaf0-4ec80accd15c.jpeg", "/uploads/75908df4-c858-443c-82e3-db3f1516932a.jpeg", "/uploads/61262695-7b14-4aff-a987-8ee4dc960cfa.jpeg", "/uploads/35ca9149-5a73-43ff-a6fe-9e5a4291c46d.jpeg", "/uploads/ec9f4391-aad2-4207-b261-579e73abc5d5.jpeg", "/uploads/129e0e46-096d-48e3-9726-425bac97998c.jpeg", "/uploads/ce368dac-5588-493d-8431-940fc08e118f.jpeg"]
 title = "Pocklington School Art and Design Centre Building "
 [[work]]
-photos = ["/uploads/da9a30b0-ca13-44a2-80db-cda1447d6d7f.jpeg", "/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
+photos = ["/uploads/f6fa46b5-4b9e-47bd-95fb-2e257b98efc9.jpeg", "/uploads/da9a30b0-ca13-44a2-80db-cda1447d6d7f.jpeg", "/uploads/img_2858.jpg", "/uploads/img_2857.jpg"]
 title = "Village Rectory, extension under construction. "
 [[work]]
 photos = ["/uploads/img_5722.jpg", "/uploads/img_5704.jpg", "/uploads/img_5725.jpg", "/uploads/img_5723.jpg", "/uploads/img_5720.jpg", "/uploads/img_5717.jpg", "/uploads/img_5707.jpg", "/uploads/img_4655.jpg", "/uploads/img_4594.jpg", "/uploads/img_4595.jpg", "/uploads/img_3841.jpg", "/uploads/img_3551.jpg"]
@@ -72,7 +72,7 @@ title = "Town house restoration including gardens. "
 photos = ["/uploads/41cd5de6-3331-44af-ac5a-888d39326c7e.JPG"]
 title = "Courtyard house. Built on the site of a garage and portion of garden. "
 [[work]]
-photos = ["/uploads/img_7814-1.jpg"]
+photos = ["/uploads/ea421825-09b6-4228-8567-31df44ffbb16.jpeg", "/uploads/img_7814-1.jpg"]
 title = "Three walls glazed. "
 [[work]]
 photos = ["/uploads/c50b434e-78fe-4101-b3b0-e6f1a6b926ba.JPG"]
