@@ -12,9 +12,6 @@ title = "Bloomsbury entrance hall restoration."
 photos = ["/uploads/007.jpg", "/uploads/076.jpg"]
 title = "House in Gaillac."
 [[work]]
-photos = ["/uploads/031.JPG", "/uploads/024.JPG"]
-title = "Conversion of Barn"
-[[work]]
 photos = ["/uploads/img_6028.jpg"]
 title = "Contemporary new build."
 [[work]]
