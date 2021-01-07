@@ -15,17 +15,11 @@ title = "Bloomsbury entrance hall restoration."
 photos = ["/uploads/007.jpg", "/uploads/076.jpg"]
 title = "House in Gaillac."
 [[work]]
-photos = ["/uploads/dsfa.png"]
-title = "Award winning hair salon."
-[[work]]
 photos = ["/uploads/031.JPG", "/uploads/024.JPG"]
 title = "Conversion of Barn"
 [[work]]
 photos = ["/uploads/img_6028.jpg"]
 title = "Contemporary new build."
-[[work]]
-photos = ["/uploads/img_8655.jpg"]
-title = "New build matures. "
 [[work]]
 photos = ["/uploads/img_8222.jpg"]
 title = "Town house drawing room restoration. "
@@ -35,9 +29,6 @@ title = "Visitors Centre"
 [[work]]
 photos = ["/uploads/41cd5de6-3331-44af-ac5a-888d39326c7e.JPG"]
 title = "Courtyard house. Built on the site of a garage and portion of garden. "
-[[work]]
-photos = ["/uploads/ea421825-09b6-4228-8567-31df44ffbb16.jpeg", "/uploads/img_7814-1.jpg"]
-title = "Three walls glazed. "
 [[work]]
 photos = ["/uploads/img_7733.jpg"]
 title = "Bloomsbury rooftop restoration."
