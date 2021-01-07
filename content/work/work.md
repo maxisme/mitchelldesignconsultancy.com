@@ -12,9 +12,6 @@ title = "Courtyard House."
 photos = ["/uploads/img_4551.jpg", "/uploads/img_3131.jpg", "/uploads/img_2657.jpg", "/uploads/img_2640.jpg"]
 title = "Salts Mill"
 [[work]]
-photos = ["/uploads/img_2763.jpg", "/uploads/img_2762.jpg", "/uploads/img_2761.jpg"]
-title = "External and internal walls modules. "
-[[work]]
 photos = ["/uploads/img_2408.jpg"]
 title = "Bloomsbury entrance hall restoration."
 [[work]]
