@@ -24,17 +24,11 @@ title = "Loggia for Listed City House."
 photos = ["/uploads/img_1454.jpg"]
 title = "Model for Planning. Approved scheme for new Prep School. "
 [[work]]
-photos = ["/uploads/img_1050.jpg"]
-title = "New Build in the East Riding of Yorkshire. "
-[[work]]
 photos = ["/uploads/img_1501.jpg", "/uploads/img_1061.jpg"]
 title = "Coach House under Construction. "
 [[work]]
 photos = ["/uploads/img_9291.jpg", "/uploads/img_9290.jpg"]
 title = "Village House. Restoration begins. "
-[[work]]
-photos = ["/uploads/img_9136.jpg"]
-title = "Log Store"
 [[work]]
 photos = ["/uploads/front.jpg"]
 title = "Restoration of victorian villa."
