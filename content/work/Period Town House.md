@@ -1,5 +1,4 @@
 +++
-draft = true
 [[work]]
 photos = []
 title = ""
