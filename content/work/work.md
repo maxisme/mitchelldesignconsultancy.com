@@ -51,9 +51,6 @@ title = "Town house drawing room restoration. "
 photos = ["/uploads/fsfg.png", "/uploads/356-copy.jpg"]
 title = "Visitors Centre"
 [[work]]
-photos = ["/uploads/059e5cca-914a-4dcc-8565-6746b174a160.JPG"]
-title = "Town house restoration including gardens. "
-[[work]]
 photos = ["/uploads/41cd5de6-3331-44af-ac5a-888d39326c7e.JPG"]
 title = "Courtyard house. Built on the site of a garage and portion of garden. "
 [[work]]
