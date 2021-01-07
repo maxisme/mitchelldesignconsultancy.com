@@ -15,9 +15,6 @@ title = "Bloomsbury entrance hall restoration."
 photos = ["/uploads/83d63ac5-eadb-421d-80f3-cecb6ab8a9e0.jpeg", "/uploads/f87ff245-07d0-4824-8bf0-fe9e193a2ffe.jpeg", "/uploads/e08e0abc-368a-4df7-9ff1-f89278855772.jpeg", "/uploads/1c76f8e2-1533-40d5-8cf9-f86552efb20c.jpeg", "/uploads/35b4388e-def6-48bb-8a09-7d95d80c8f24.jpeg", "/uploads/1e24de8b-d424-4cc7-ae2d-ad41e879f3e1.jpeg", "/uploads/3eee7258-91ba-42a1-851b-5a9858248868.jpeg", "/uploads/img_1676.jpg"]
 title = "Loggia for Listed City House."
 [[work]]
-photos = ["/uploads/img_1501.jpg", "/uploads/img_1061.jpg"]
-title = "Coach House under Construction. "
-[[work]]
 photos = ["/uploads/front.jpg"]
 title = "Restoration of victorian villa."
 [[work]]
@@ -29,9 +26,6 @@ title = "Award winning hair salon."
 [[work]]
 photos = ["/uploads/031.JPG", "/uploads/024.JPG"]
 title = "Conversion of Barn"
-[[work]]
-photos = ["/uploads/8143009-exterior06.jpeg", "/uploads/8143009-exterior08.jpeg", "/uploads/8143009-interior23.jpeg", "/uploads/8143009-interior22.jpeg", "/uploads/8143009-interior17.jpeg", "/uploads/8143009-interior14.jpeg", "/uploads/8143009-interior12.jpeg", "/uploads/8143009-interior11.jpeg", "/uploads/8143009-interior10.jpeg", "/uploads/8143009-interior07.jpeg", "/uploads/8143009-interior05.jpeg", "/uploads/8143009-interior04.jpeg"]
-title = "Housing Development, Grade 2*"
 [[work]]
 photos = ["/uploads/img_6028.jpg"]
 title = "Contemporary new build."
