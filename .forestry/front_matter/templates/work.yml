@@ -21,4 +21,5 @@ fields:
   label: Work
   description: List of works
 pages:
+- content/work/Period Town House.md
 - content/work/work.md
