@@ -75,8 +75,8 @@ title = "Courtyard house. Built on the site of a garage and portion of garden. "
 photos = ["/uploads/ea421825-09b6-4228-8567-31df44ffbb16.jpeg", "/uploads/img_7814-1.jpg"]
 title = "Three walls glazed. "
 [[work]]
-photos = ["/uploads/c50b434e-78fe-4101-b3b0-e6f1a6b926ba.JPG"]
-title = "Restoration of a Rectory. "
+photos = []
+title = ""
 [[work]]
 photos = ["/uploads/img_7733.jpg"]
 title = "Bloomsbury rooftop restoration."
