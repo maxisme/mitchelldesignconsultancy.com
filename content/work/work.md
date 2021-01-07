@@ -12,12 +12,6 @@ title = "Salts Mill"
 photos = ["/uploads/img_2408.jpg"]
 title = "Bloomsbury entrance hall restoration."
 [[work]]
-photos = ["/uploads/83d63ac5-eadb-421d-80f3-cecb6ab8a9e0.jpeg", "/uploads/f87ff245-07d0-4824-8bf0-fe9e193a2ffe.jpeg", "/uploads/e08e0abc-368a-4df7-9ff1-f89278855772.jpeg", "/uploads/1c76f8e2-1533-40d5-8cf9-f86552efb20c.jpeg", "/uploads/35b4388e-def6-48bb-8a09-7d95d80c8f24.jpeg", "/uploads/1e24de8b-d424-4cc7-ae2d-ad41e879f3e1.jpeg", "/uploads/3eee7258-91ba-42a1-851b-5a9858248868.jpeg", "/uploads/img_1676.jpg"]
-title = "Loggia for Listed City House."
-[[work]]
-photos = ["/uploads/front.jpg"]
-title = "Restoration of victorian villa."
-[[work]]
 photos = ["/uploads/007.jpg", "/uploads/076.jpg"]
 title = "House in Gaillac."
 [[work]]
