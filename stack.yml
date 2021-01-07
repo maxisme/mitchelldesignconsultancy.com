@@ -6,7 +6,7 @@ services:
       mode: global
       labels:
         - "traefik.enable=true"
-        - "traefik.http.routers.mdccom.rule=Host(`mitchelldesignconsultancy.com`)"
+        - "traefik.http.routers.mdccom.rule=Host(`mitchelldesignconsultancy.com`, `www.mitchelldesignconsultancy.com`)"
         - "traefik.http.services.mdccom.loadbalancer.server.port=8080"
         - "traefik.http.routers.mdccom.middlewares=404"
     networks:
