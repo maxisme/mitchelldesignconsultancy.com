@@ -42,7 +42,7 @@ sub {
 }
 
 h1 {
-  font-size: 2.3em;
+  font-size: 2.1em;
   display: table;
   position: relative;
   border: #e3e3e3 5px solid;
@@ -232,6 +232,7 @@ a img:hover, a img:focus, a img:active {
   padding: 5px;
   margin-bottom: 5px;
   margin-top: 25px;
+  max-width: 80%;
 }
 #work .work .description {
   margin: 0;
