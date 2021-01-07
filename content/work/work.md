@@ -21,9 +21,6 @@ title = "Bloomsbury entrance hall restoration."
 photos = ["/uploads/83d63ac5-eadb-421d-80f3-cecb6ab8a9e0.jpeg", "/uploads/f87ff245-07d0-4824-8bf0-fe9e193a2ffe.jpeg", "/uploads/e08e0abc-368a-4df7-9ff1-f89278855772.jpeg", "/uploads/1c76f8e2-1533-40d5-8cf9-f86552efb20c.jpeg", "/uploads/35b4388e-def6-48bb-8a09-7d95d80c8f24.jpeg", "/uploads/1e24de8b-d424-4cc7-ae2d-ad41e879f3e1.jpeg", "/uploads/3eee7258-91ba-42a1-851b-5a9858248868.jpeg", "/uploads/img_1676.jpg"]
 title = "Loggia for Listed City House."
 [[work]]
-photos = ["/uploads/img_1454.jpg"]
-title = "Model for Planning. Approved scheme for new Prep School. "
-[[work]]
 photos = ["/uploads/img_1501.jpg", "/uploads/img_1061.jpg"]
 title = "Coach House under Construction. "
 [[work]]
@@ -65,9 +62,6 @@ title = "Courtyard house. Built on the site of a garage and portion of garden. "
 [[work]]
 photos = ["/uploads/ea421825-09b6-4228-8567-31df44ffbb16.jpeg", "/uploads/img_7814-1.jpg"]
 title = "Three walls glazed. "
-[[work]]
-photos = []
-title = ""
 [[work]]
 photos = ["/uploads/img_7733.jpg"]
 title = "Bloomsbury rooftop restoration."
