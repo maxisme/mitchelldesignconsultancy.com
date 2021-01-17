@@ -1,0 +1,6 @@
+ingress:
+  match: "Host(`mitchelldesignconsultancy.com`)"
+
+image:
+  repository: "maxisme/mitchelldesignconsultancy.com"
+        
